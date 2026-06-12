@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Love Undone by Time</title>
+    <style>
+        body {
+            font-family: Georgia, serif;
+            background-color: #faf8f5; /* Warm, soft cream paper color */
+            color: #333333;
+            line-height: 1.8;
+            padding: 60px 20px;
+            max-width: 650px;
+            margin: 0 auto;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 60px;
+        }
+        h1 {
+            font-size: 2.2rem;
+            font-weight: normal;
+            margin-bottom: 10px;
+            color: #111111;
+        }
+        .subtitle {
+            font-style: italic;
+            color: #666666;
+            font-size: 1.1rem;
+        }
+        .intro-box {
+            border-bottom: 1px solid #e0dacb;
+            padding-bottom: 40px;
+            margin-bottom: 40px;
+        }
+        .intro-box p {
+            margin-bottom: 20px;
+        }
+        .section-title {
+            font-size: 1.1rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: #888888;
+            margin-bottom: 25px;
+            border-bottom: 2px solid #333333;
+            display: inline-block;
+            padding-bottom: 5px;
+        }
+        .letter-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .letter-item {
+            margin-bottom: 25px;
+            display: flex;
+            flex-direction: column;
+        }
+        .letter-date {
+            font-size: 0.85rem;
+            color: #888888;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        .letter-link {
+            color: #111111;
+            text-decoration: none;
+            font-size: 1.2rem;
+            margin-top: 2px;
+            display: inline-block;
+        }
+        .letter-link:hover {
+            color: #666666;
+            text-decoration: underline;
+        }
+        footer {
+            margin-top: 100px;
+            text-align: center;
+            font-size: 0.85rem;
+            color: #999999;
+            border-top: 1px solid #e0dacb;
+            padding-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>A Love Undone by Time</h1>
+        <div class="subtitle">Letters to my baby girl</div>
+    </header>
+
+    <main>
+        <!-- Your introductory text for visitors -->
+        <section class="intro-box">
+            <p><strong>Welcome to this quiet corner of the internet.</strong></p>
+            <p>This is an ongoing collection of emails and letters written to my daughter, using her nickname to protect her privacy as she grows. It is a mother's heart preserved in words, meant to outlast me so she will always know how deeply she is loved.</p>
+            <p>I have left this space completely open to the public. If you have found your way here because you are longing for your own mother, or for a mother's warmth, please know that these words are for you, too. You are welcome to rest here a while.</p>
+        </section>
+
+        <!-- Where your future letters will be linked -->
+        <section>
+            <div class="section-title">The Archive</div>
+            <ul class="letter-list">
+                <li class="letter-item">
+                    <span class="letter-date">June 2026</span>
+                    <a class="letter-link" href="#">Letter One: Coming Soon</a>
+                </li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>Eternally out there. Made with love for my little one.</p>
+    </footer>
+
+</body>
+</html>
